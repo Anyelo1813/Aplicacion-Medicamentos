@@ -1,0 +1,59 @@
+.medicamentos-container {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.medicamento {
+  background-color: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: flex-start;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.medicamento:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.medicamento-imagen {
+  width: 120px; 
+  height: auto;
+  border-radius: 8px;
+  margin-right: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.medicamento-imagen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.medicamento-info {
+  flex: 1;
+}
+
+.medicamento-nombre {
+  font-weight: bold;
+  font-size: 1.4em;
+  color: #333;
+  margin: 0 0 8px;
+}
+
+.medicamento-descripcion {
+  color: #555;
+  margin: 0 0 8px;
+}
+
+.medicamento-como-tomar,
+.medicamento-cuando-tomar {
+  font-size: 0.9em;
+  color: #666;
+  margin: 0;
+}

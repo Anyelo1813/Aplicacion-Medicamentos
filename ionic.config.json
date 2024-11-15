@@ -1,0 +1,7 @@
+{
+  "name": "Dosefy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

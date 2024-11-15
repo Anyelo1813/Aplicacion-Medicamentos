@@ -1,0 +1,21 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-menu-button slot="start"></ion-menu-button>
+    <ion-title>Medicamentos</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="medicamentos-container">
+    <div class="medicamento" *ngFor="let med of medicamentos; track by $index">
+      <img class="medicamento-imagen" [src]="med.imagen" alt="{{ med.nombre }} imagen">
+      <div class="medicamento-info">
+        <h2 class="medicamento-nombre">{{ med.nombre }}</h2>
+        <p class="medicamento-descripcion">{{ med.descripcion }}</p>
+        <p class="medicamento-como-tomar"><strong>Cómo tomar:</strong> {{ med.como_tomar }}</p>
+        <p class="medicamento-cuando-tomar"><strong>Cuándo tomar:</strong> {{ med.cuando_tomar }}</p>
+      </div>
+    </div>
+  </div>
+</ion-content>
+

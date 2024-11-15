@@ -1,0 +1,36 @@
+<ion-menu side="start" menuId="MenuPrincipal" contentId="main">
+  <ion-header>
+    <ion-toolbar >
+      <ion-title> Dosefy </ion-title>
+      <ion-button  fill="clear" slot="end" (click)="btnThemePush()">
+        @if (isDark) {
+        <ion-icon color="warning" name="sunny-outline"></ion-icon>
+        } @else {
+        <ion-icon color="primary" name="moon-outline"></ion-icon>
+        }
+      </ion-button>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item button [routerLink]="['/home']">
+        <ion-icon name="Home-outline" slot="start" color="dark"></ion-icon>
+         Home
+
+      </ion-item>
+
+
+      <ion-item button [routerLink]="['/medicamentos']">
+        <ion-icon name="bandage-outline" slot="start" color="danger"></ion-icon>
+
+        Medicamentos</ion-item
+      >
+      <ion-item button [routerLink]="['/notas']">
+        <ion-icon name="calendar-outline" slot="start" color="Ligh"></ion-icon>
+
+         NOTAS      </ion-item>
+
+
+    </ion-list>
+  </ion-content>
+</ion-menu>
