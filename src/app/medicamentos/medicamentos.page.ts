@@ -7,8 +7,7 @@ import {
   IonTitle,
   IonToolbar,
   IonMenuButton,
-  IonLabel
-} from '@ionic/angular/standalone';
+  IonLabel, IonItem, IonCardContent, IonCardHeader, IonCardTitle, IonCard } from '@ionic/angular/standalone';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
@@ -16,7 +15,7 @@ import { HttpClient } from '@angular/common/http';
   templateUrl: './medicamentos.page.html',
   styleUrls: ['./medicamentos.page.scss'],
   standalone: true,
-  imports: [
+  imports: [IonCard, IonCardTitle, IonCardHeader, IonCardContent, IonItem,
     IonHeader,
     IonToolbar,
     IonTitle,

@@ -1,15 +1,46 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>Notas</ion-title>
-    <ion-menu-button slot="start"> </ion-menu-button>
+
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Registrar Notificación</ion-title>
   </ion-toolbar>
 </ion-header>
 
+<ion-content class="ion-padding">
+  <ion-list lines="full">
+    <ion-item>
+      <ion-label position="floating">Título</ion-label>
+      <ion-input
+        placeholder="Título"
+        name="Titulo"
+        [(ngModel)]="Notificacion.titulo"
+      ></ion-input>
+    </ion-item>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">notas</ion-title>
-    </ion-toolbar>
-  </ion-header>
+    <ion-item>
+      <ion-label position="floating">Descripción</ion-label>
+      <ion-textarea
+        name="Descripcion"
+        placeholder="Descripción"
+        [(ngModel)]="Notificacion.descripcion"
+      ></ion-textarea>
+    </ion-item>
+
+    <ion-item>
+      <ion-label>Fecha de Notificación</ion-label>
+      <ion-datetime
+        name="Fecha"
+        [min]="Min"
+        [(ngModel)]="Notificacion.fecha"
+      ></ion-datetime>
+    </ion-item>
+  </ion-list>
+  <div class="ion-padding">
+    <ion-button
+      expand="block"
+      (click)="RegistrarNotificacion()"
+      color="primary"
+    >
+      Registrar
+    </ion-button>
+  </div>
 </ion-content>
