@@ -17,5 +17,26 @@
       </div>
     </div>
   </div>
+  @for (medicamento of medicamentos; track $index) {
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>{{ medicamento.nombre }}</ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content>
+      <img [src]="medicamento.imagen" alt="{{ medicamento.nombre }}" />
+      <p>{{ medicamento.descripcion }}</p>
+      <ion-item lines="none">
+        <ion-label color="primary">Cómo tomar</ion-label>
+        <p>{{ medicamento.como_tomar }}</p>
+      </ion-item>
+      <ion-item lines="none">
+        <ion-label color="secondary">Cuándo tomar</ion-label>
+        <p>{{ medicamento.cuando_tomar }}</p>
+      </ion-item>
+    </ion-card-content>
+  </ion-card>
+}
+
 </ion-content>
 
