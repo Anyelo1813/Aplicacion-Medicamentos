@@ -1,0 +1,198 @@
+[
+  {
+    "nombre": "Paracetamol",
+    "descripcion": "Analgésico y antipirético utilizado para el tratamiento del dolor y la fiebre.",
+    "imagen": "https://iberofarmacos.net/wp-content/uploads/2022/03/PARACETAMOL-750MG_Mesa-de-trabajo-1-600x600.jpg",
+    "como_tomar": "Tomar con un vaso de agua. Se puede tomar con o sin alimentos.",
+    "cuando_tomar": "Cada 4 a 6 horas según sea necesario. No exceder 4 gramos al día."
+  },
+  {
+    "nombre": "Ibuprofeno",
+    "descripcion": "Antiinflamatorio no esteroideo (AINE) utilizado para reducir el dolor, la inflamación y la fiebre.",
+    "imagen": "https://static.eldiario.es/clip/c07df8dd-f500-45f0-8623-6b8fc4217bb2_twitter-watermarked-aspect-ratio_default_0.jpg",
+    "como_tomar": "Tomar con alimentos o leche para evitar malestar estomacal.",
+    "cuando_tomar": "Cada 6 a 8 horas según necesidad. No exceder 3.2 gramos al día."
+  },
+  {
+    "nombre": "Metronidazol",
+    "descripcion": "Antibiótico utilizado para tratar infecciones bacterianas y parasitarias.",
+    "imagen": "https://medicamentosmk.com/media/2020-07-07--TQFARMA/metronidazol-mk.jpg",
+    "como_tomar": "Tomar con alimentos o un vaso de leche para reducir molestias gastrointestinales.",
+    "cuando_tomar": "Cada 8 horas durante 7 a 10 días, según la indicación médica. Evitar el alcohol durante el tratamiento y por al menos 48 horas después."
+  },
+  {
+    "nombre": "Ciprofloxacina",
+    "descripcion": "Antibiótico de amplio espectro utilizado para tratar diferentes tipos de infecciones bacterianas.",
+    "imagen": "https://www.vitalislaboratorio.com/wp-content/uploads/2020/06/CIPROFLOXACINA-100-MG10-ML-1-1.jpg",
+    "como_tomar": "Tomar con un vaso de agua, evitando productos lácteos.",
+    "cuando_tomar": "Cada 12 horas por la duración prescrita por el médico."
+  },
+  {
+    "nombre": "Azitromicina",
+    "descripcion": "Antibiótico usado para tratar infecciones respiratorias y de piel.",
+    "imagen": "https://calox.com/wp-content/uploads/2022/12/AZITROMICINA.jpg",
+    "como_tomar": "Tomar con o sin comida. Beber suficiente agua.",
+    "cuando_tomar": "Una vez al día, por 3 a 5 días, según la prescripción."
+  },
+  {
+    "nombre": "Dicoflenaco",
+    "descripcion": "Antiinflamatorio no esteroideo utilizado para aliviar el dolor y la inflamación.",
+    "imagen": "https://www.laboratoriochile.cl/wp-content/uploads/2015/10/Diclofenaco_Adultos_50MG_5S_HD.jpg",
+    "como_tomar": "Tomar con alimentos para minimizar el malestar estomacal.",
+    "cuando_tomar": "Cada 8 a 12 horas, según necesidad."
+  },
+  {
+    "nombre": "Loperamida",
+    "descripcion": "Medicamento antidiarreico utilizado para tratar la diarrea aguda y crónica.",
+    "imagen": "https://www.laboratoriochile.cl/wp-content/uploads/2020/06/Loperamida_2MG_6C_BE.jpg",
+    "como_tomar": "Tomar con un vaso de agua.",
+    "cuando_tomar": "Inicialmente 2 cápsulas después de la primera deposición suelta, luego 1 cápsula después de cada deposición, sin exceder 8 cápsulas al día."
+  },
+  {
+    "nombre": "Clorfeniramina",
+    "descripcion": "Antihistamínico utilizado para tratar síntomas de alergias.",
+    "imagen": "https://www.drogueriaspatria.com/wp-content/uploads/2022/04/7703712030695-1.png",
+    "como_tomar": "Tomar con o sin alimentos, con un vaso de agua.",
+    "cuando_tomar": "Cada 4 a 6 horas según sea necesario."
+  },
+  {
+    "nombre": "Salbutamol",
+    "descripcion": "Broncodilatador utilizado para aliviar los síntomas del asma y otras condiciones respiratorias.",
+    "imagen": "https://iberofarmacos.net/wp-content/uploads/2022/03/SALBUTAMOL-2MG-JARABE_Mesa-de-trabajo-1-scaled.jpg",
+    "como_tomar": "Usar con un inhalador, siguiendo las instrucciones médicas.",
+    "cuando_tomar": "Según sea necesario, generalmente 1-2 inhalaciones cada 4-6 horas."
+  },
+  {
+    "nombre": "Amoxicilina con ácido clavulánico",
+    "descripcion": "Antibiótico de amplio espectro usado para tratar infecciones bacterianas resistentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUWfKTFk0cY2xOApehpvQZSD2uF3wNrZzdPA&s",
+    "como_tomar": "Tomar al inicio de una comida para mejorar la absorción.",
+    "cuando_tomar": "Cada 8 a 12 horas, según la indicación médica."
+  },
+  {
+    "nombre": "Esomeprazol",
+    "descripcion": "Inhibidor de la bomba de protones utilizado para tratar el reflujo gastroesofágico y las úlceras.",
+    "imagen": "https://www.disfarma.com.co/fotosproductos/main_producto_75.jpg",
+    "como_tomar": "Tomar al menos 1 hora antes de las comidas con un vaso de agua.",
+    "cuando_tomar": "Generalmente una vez al día, por la mañana."
+  },
+  {
+    "nombre": "Levotiroxina",
+    "descripcion": "Medicamento utilizado para el tratamiento del hipotiroidismo.",
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1031708/7703153021672.jpg?v=638102150020800000",
+    "como_tomar": "Tomar en ayunas, al menos 30 minutos antes del desayuno.",
+    "cuando_tomar": "Una vez al día, por la mañana."
+  },
+  {
+    "nombre": "Bromhexina",
+    "descripcion": "Mucolítico utilizado para facilitar la eliminación de mucosidad en las vías respiratorias.",
+    "imagen": "https://eurofarmacdn.com/storage/wp-content/uploads/2016/10/Bromhexina.png?w1000,h1000,q80,mSCALE,vV3.jpg",
+    "como_tomar": "Tomar con o sin alimentos, con un vaso de agua.",
+    "cuando_tomar": "Cada 8 a 12 horas, según la indicación médica."
+  },
+  {
+    "nombre": "Trimetoprima",
+    "descripcion": "Antibiótico combinado utilizado para tratar infecciones bacterianas.",
+    "imagen": "https://www.lasanteca.com/userfiles/2018/12/TRIMETOPRIMA-SULFAMETOXAZOL-160-800MG-CAJA-20-TABLETAS-CON-TAMBLETAS.jpg",
+    "como_tomar": "Tomar con un vaso de agua, preferiblemente después de una comida.",
+    "cuando_tomar": "Cada 12 horas, según la prescripción médica."
+  },
+  {
+    "nombre": "Naproxeno",
+    "descripcion": "Antiinflamatorio no esteroideo (AINE) utilizado para aliviar el dolor y la inflamación.",
+    "imagen": "https://laboratorioslacofa.com/wp-content/uploads/2021/12/Naproxeno-sodico-550mg-blister.jpg",
+    "como_tomar": "Tomar con alimentos para reducir el malestar estomacal.",
+    "cuando_tomar": "Cada 12 horas, según necesidad."
+  },
+  {
+    "nombre": "Montelukast",
+    "descripcion": "Medicamento utilizado para el tratamiento del asma y la rinitis alérgica.",
+    "imagen": "https://vincentilab.com/wp-content/uploads/2022/04/Montelukast_v03.jpg",
+    "como_tomar": "Tomar por la noche con o sin alimentos.",
+    "cuando_tomar": "Una vez al día, preferiblemente por la noche."
+  },
+  {
+    "nombre": "Ranitidina",
+    "descripcion": "Medicamento utilizado para reducir la producción de ácido estomacal.",
+    "imagen": "https://www.pharmart.vn/images/product/origin/ranitidin-300-mg-62d779ab75348.jpg",
+    "como_tomar": "Tomar con o sin alimentos, según indicación médica.",
+    "cuando_tomar": "Una o dos veces al día."
+  },
+  {
+    "nombre": "Fexofenadina",
+    "descripcion": "Antihistamínico utilizado para el alivio de síntomas de alergias estacionales.",
+    "imagen": "https://drogassys.com/images/items_image/40158.jpg",
+    "como_tomar": "Tomar con un vaso de agua, sin alimentos.",
+    "cuando_tomar": "Una vez al día."
+  },
+  {
+    "nombre": "carbamazepina",
+    "descripcion": "Anticonvulsivo y estabilizador del estado de ánimo utilizado para tratar la epilepsia y el trastorno bipolar.",
+    "imagen": "https://lh3.googleusercontent.com/wwgRLNlLSMIuHLkKgkbEa3jfFwZ0HnSR3DXUuzpWXIxPrhfxWJ7m96BAEHR4niPM4bZq4WRC6M1bo8aqDFSaWuBZ4v-S2Iz_kaFyAyt3fInWvzIh",
+    "como_tomar": "Tomar con alimentos para mejorar la absorción.",
+    "cuando_tomar": "Según la indicación médica, generalmente 2 a 4 veces al día."
+  },
+  {
+    "nombre": "Glibenclamida",
+    "descripcion": "Medicamento antidiabético utilizado para controlar el azúcar en la sangre en personas con diabetes tipo 2.",
+    "imagen": "https://iberofarmacos.net/wp-content/uploads/2022/03/GLIBENCLAMIDA-5MG_Mesa-de-trabajo-1-scaled.jpg",
+    "como_tomar": "Tomar con el desayuno o la primera comida principal del día.",
+    "cuando_tomar": "Una vez al día, o según la prescripción médica."
+  },
+  {
+    "nombre": "Metoclopramida",
+    "descripcion": "Medicamento utilizado para tratar las náuseas, vómitos y problemas de motilidad gástrica.",
+    "imagen": "https://vincentilab.com/wp-content/uploads/2023/04/Metoclopramida_v03.jpg",
+    "como_tomar": "Tomar 30 minutos antes de las comidas.",
+    "cuando_tomar": "Cada 6 a 8 horas, según la indicación médica."
+  },
+  {
+    "nombre": "Tamsulosina",
+    "descripcion": "Medicamento utilizado para tratar los síntomas de la hiperplasia prostática benigna.",
+    "imagen": "https://elasticbeanstalk-us-east-2-050925772851.s3.us-east-2.amazonaws.com/webresources/ethical/products/ET05241.jpg",
+    "como_tomar": "Tomar con un vaso de agua después de la misma comida todos los días.",
+    "cuando_tomar": "Una vez al día."
+  },
+  {
+    "nombre": "Doxiciclina",
+    "descripcion": "Antibiótico de amplio espectro utilizado para tratar diversas infecciones bacterianas.",
+    "imagen": "https://petmarket.do/wp-content/uploads/2023/10/108b74255df63914-1.png",
+    "como_tomar": "Tomar con un vaso lleno de agua y evitar acostarse por al menos 30 minutos después de tomarlo.",
+    "cuando_tomar": "Una o dos veces al día, según la indicación médica."
+  },
+  {
+    "nombre": "Fluconazol",
+    "descripcion": "Antifúngico utilizado para tratar infecciones por hongos y levaduras.",
+    "imagen": "https://lam.com.do/wp-content/uploads/2024/04/Fluconazol-Lam.png",
+    "como_tomar": "Tomar con o sin alimentos.",
+    "cuando_tomar": "Generalmente una vez al día."
+  },
+  {
+    "nombre": "Sertralina",
+    "descripcion": "Antidepresivo de la clase ISRS utilizado para tratar la depresión y la ansiedad.",
+    "imagen": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501349021310.jpg",
+    "como_tomar": "Tomar con o sin alimentos, preferiblemente por la mañana.",
+    "cuando_tomar": "Una vez al día."
+  },
+  {
+    "nombre": "Duloxetina",
+    "descripcion": "Antidepresivo y ansiolítico utilizado para el tratamiento del trastorno de ansiedad generalizada y el dolor neuropático.",
+    "imagen": "https://eurofarmacdn.com/storage/media/12446/F4QbFTKn6Eb3Qi8mDHL3jgnAv9T94MEYTSTMkmr4.png?w1000,h1000,q80,mSCALE,vV3.jpg",
+    "como_tomar": "Tomar con o sin alimentos.",
+    "cuando_tomar": "Una vez al día."
+  },
+  {
+    "nombre": "Lisinopril",
+    "descripcion": "Medicamento inhibidor de la ECA utilizado para tratar la hipertensión y la insuficiencia cardíaca.",
+    "imagen": "https://elasticbeanstalk-us-east-2-050925772851.s3.us-east-2.amazonaws.com/webresources/ethical/products/ET01686.jpg",
+    "como_tomar": "Tomar con un vaso de agua, sin importar los alimentos.",
+    "cuando_tomar": "Una vez al día, preferiblemente a la misma hora."
+  },
+  {
+    "nombre": "Verapamilo",
+    "descripcion": "Calcioantagonista utilizado para tratar la hipertensión y las arritmias cardíacas.",
+    "imagen": "https://medicamentosmk.com/media/2020-07-07--TQFARMA/verapamilo-mk.jpg",
+    "como_tomar": "Tomar con o sin alimentos.",
+    "cuando_tomar": "Una o dos veces al día, según indicación médica."
+  }
+]
